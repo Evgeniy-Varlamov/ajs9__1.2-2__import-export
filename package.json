@@ -1,0 +1,25 @@
+{
+  "name": "1.2-2-import_export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evgeniy-Varlamov/ajs9__1.2-2__import-export.git"
+  },
+  "author": "Evgeniy Varlamov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evgeniy-Varlamov/ajs9__1.2-2__import-export/issues"
+  },
+  "homepage": "https://github.com/Evgeniy-Varlamov/ajs9__1.2-2__import-export#readme",
+  "devDependencies": {
+    "babel-loader": "^8.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
